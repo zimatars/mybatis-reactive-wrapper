@@ -1,5 +1,5 @@
 # MyBatis Reactive Wrapper
-### MyBatis 响应式 Wrapper
+### MyBatis 响应式 Wrapper (based on JDBC)
 
 * 通过切换线程池避免 JDBC 调用对web层造成阻塞，完整支持 MyBatis 原有功能
 * 适配 org.springframework.transactionReactiveTransactionManager，支持 Spring 事务
