@@ -1,0 +1,5 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.mybatis.boot.autoconfigure.jdbc.MybatisReactiveTransactionManagerAutoConfiguration,\
+org.apache.ibatis.toolkit.SpringContextUtil
+

@@ -1,0 +1,21 @@
+{
+  "properties": [
+    {
+      "name": "mybatis.scheduler.threadCap",
+      "type": "java.lang.Integer",
+      "defaultValue": 20,
+      "description": "Description for mybatis.scheduler.threadCap."
+    },
+    {
+      "name": "mybatis.scheduler.queuedTaskCap",
+      "type": "java.lang.Integer",
+      "defaultValue": 100,
+      "description": "Description for mybatis.scheduler.queuedTaskCap."
+    },
+    {
+      "name": "mybatis.scheduler.name",
+      "type": "java.lang.String",
+      "defaultValue": "mybatis-thread",
+      "description": "Description for mybatis.scheduler.name."
+    }
+  ] }
