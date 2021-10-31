@@ -15,6 +15,7 @@
 ```
 
 ### 引入依赖（自行install）
+已包含mybatis-spring-boot-starter，勿重复引入
 ```xml
     <dependency>
         <groupId>com.zimatars</groupId>
