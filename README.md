@@ -9,8 +9,8 @@
 ### 快速开始
 ### 下载源码编译
 ```sh
-    git clone https://github.com/zimatars/a-mybatis-reactive-wrapper.git
-    cd a-mybatis-reactive-wrapper/
+    git clone https://github.com/zimatars/mybatis-reactive-wrapper
+    cd mybatis-reactive-wrapper/
     mvn -Dmaven.test.skip=true clean install
 ```
 
